@@ -1,0 +1,7018 @@
+{
+  "timestamp": "2026-02-22T14:12:27.811036",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399604
+  },
+  "cpu": {
+    "cpu_percent": 9.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      19.7,
+      24.6,
+      23.4,
+      28.1,
+      15.2,
+      3.1,
+      3.1,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 7.09,
+    "available_memory_gb": 0.66,
+    "memory_percent": 91.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.06
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 33383235,
+    "bytes_received": 372960862,
+    "packets_sent": 149677,
+    "packets_received": 300775
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 0.0,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "",
+        "pid": 140,
+        "memory_percent": 0.5190262018880483
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "Registry",
+        "pid": 184,
+        "memory_percent": 0.22778471366176603
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "svchost.exe",
+        "pid": 576,
+        "memory_percent": 0.015458050592131952
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 0.0,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.373986365408625
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "Code.exe",
+        "pid": 15644,
+        "memory_percent": 4.597243937884236
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.346274117512691
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "Code.exe",
+        "pid": 16048,
+        "memory_percent": 3.2941401188596093
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.280257411002981
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:12:35.991841",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399612
+  },
+  "cpu": {
+    "cpu_percent": 16.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      32.9,
+      29.0,
+      44.8,
+      31.8,
+      9.4,
+      7.8,
+      6.2,
+      7.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 7.12,
+    "available_memory_gb": 0.63,
+    "memory_percent": 91.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.06
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 33846124,
+    "bytes_received": 373024083,
+    "packets_sent": 149797,
+    "packets_received": 301035
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 654.8,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 33.0,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.54308956217287
+      },
+      {
+        "cpu_percent": 18.7,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.474323882589706
+      },
+      {
+        "cpu_percent": 11.0,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.992461985010614
+      },
+      {
+        "cpu_percent": 8.3,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.35056298811010067
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 33.0,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.54308956217287
+      },
+      {
+        "cpu_percent": 0.6,
+        "name": "Code.exe",
+        "pid": 15644,
+        "memory_percent": 4.616394198012705
+      },
+      {
+        "cpu_percent": 1.4,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.348292525392556
+      },
+      {
+        "cpu_percent": 0.2,
+        "name": "Code.exe",
+        "pid": 16048,
+        "memory_percent": 3.2942878072410626
+      },
+      {
+        "cpu_percent": 3.5,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.2836542437764114
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:12:43.754175",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399620
+  },
+  "cpu": {
+    "cpu_percent": 79.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      40.3,
+      26.2,
+      43.9,
+      41.5,
+      29.7,
+      50.0,
+      35.4,
+      20.3
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 7.2,
+    "available_memory_gb": 0.55,
+    "memory_percent": 92.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.95
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 34306554,
+    "bytes_received": 373132870,
+    "packets_sent": 149936,
+    "packets_received": 301389
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 561.9,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 62.4,
+        "name": "msedgewebview2.exe",
+        "pid": 14460,
+        "memory_percent": 2.521631424936888
+      },
+      {
+        "cpu_percent": 46.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.66931389885512
+      },
+      {
+        "cpu_percent": 22.3,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      },
+      {
+        "cpu_percent": 16.7,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 1.1528555056259426
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 46.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.66931389885512
+      },
+      {
+        "cpu_percent": 3.4,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.292958611807981
+      },
+      {
+        "cpu_percent": 4.2,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2005056850180966
+      },
+      {
+        "cpu_percent": 6.2,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.128876820013154
+      },
+      {
+        "cpu_percent": 8.9,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.0875240732061773
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:12:51.548074",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399628
+  },
+  "cpu": {
+    "cpu_percent": 28.6,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      28.8,
+      32.3,
+      31.8,
+      16.9,
+      15.4,
+      12.1,
+      7.8,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.14
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35049418,
+    "bytes_received": 373277530,
+    "packets_sent": 150247,
+    "packets_received": 301928
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 527.9,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 62.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.708205172637872
+      },
+      {
+        "cpu_percent": 49.3,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 1.5966098624331955
+      },
+      {
+        "cpu_percent": 19.8,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8102184606538461
+      },
+      {
+        "cpu_percent": 16.3,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 62.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.708205172637872
+      },
+      {
+        "cpu_percent": 5.1,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4014111132553273
+      },
+      {
+        "cpu_percent": 7.7,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.3235301067688536
+      },
+      {
+        "cpu_percent": 6.5,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.2580056948639893
+      },
+      {
+        "cpu_percent": 2.4,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2031640758842594
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:12:58.417505",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399634
+  },
+  "cpu": {
+    "cpu_percent": 6.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      13.8,
+      25.0,
+      15.4,
+      14.3,
+      13.6,
+      15.9,
+      9.2,
+      7.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.3,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35165226,
+    "bytes_received": 373315808,
+    "packets_sent": 150381,
+    "packets_received": 302063
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 140,
+        "name": "",
+        "memory_percent": 0.5190262018880483,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 184,
+        "name": "Registry",
+        "memory_percent": 0.1961794000307192,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 576,
+        "name": "svchost.exe",
+        "memory_percent": 0.011027399148527251,
+        "cpu_percent": 0.0
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 5.761225301579675,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.40406950412149,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.294189348320094,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2002595377156746,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.1119911150669717,
+        "cpu_percent": 0.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:12:59.508283",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399635
+  },
+  "cpu": {
+    "cpu_percent": 15.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      35.7,
+      32.8,
+      35.9,
+      35.4,
+      25.0,
+      20.0,
+      4.6,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35169744,
+    "bytes_received": 373316006,
+    "packets_sent": 150387,
+    "packets_received": 302066
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 607.6,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 30.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.2774513317553646
+      },
+      {
+        "cpu_percent": 24.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.787021538873551
+      },
+      {
+        "cpu_percent": 8.7,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34396624040517815
+      },
+      {
+        "cpu_percent": 6.3,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.1171109789573594
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 24.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.787021538873551
+      },
+      {
+        "cpu_percent": 1.2,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4050048638706962
+      },
+      {
+        "cpu_percent": 30.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.2774513317553646
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.200948750162457
+      },
+      {
+        "cpu_percent": 6.3,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.1171109789573594
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:06.380835",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399642
+  },
+  "cpu": {
+    "cpu_percent": 18.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      34.7,
+      27.3,
+      18.8,
+      17.2,
+      1.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.8,
+    "available_memory_gb": 0.95,
+    "memory_percent": 87.7,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35192500,
+    "bytes_received": 373405627,
+    "packets_sent": 150455,
+    "packets_received": 302179
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 669.1
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 5.918858034051033,
+        "cpu_percent": 35.2
+      },
+      {
+        "pid": 11188,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.5507260360832253,
+        "cpu_percent": 10.4
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.1016036989047433,
+        "cpu_percent": 9.8
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6269371792700649,
+        "cpu_percent": 9.2
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 5.918858034051033,
+        "cpu_percent": 35.2
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.4319826082161997,
+        "cpu_percent": 3.5
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2079885630117406,
+        "cpu_percent": 5.5
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.1016036989047433,
+        "cpu_percent": 9.8
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.0707368271809634,
+        "cpu_percent": 2.8
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:07.166695",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399643
+  },
+  "cpu": {
+    "cpu_percent": 10.6,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      37.1,
+      21.5,
+      34.4,
+      42.2,
+      17.9,
+      4.5,
+      12.1,
+      1.5
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.8,
+    "available_memory_gb": 0.95,
+    "memory_percent": 87.7,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35194260,
+    "bytes_received": 373421681,
+    "packets_sent": 150472,
+    "packets_received": 302193
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 670.9,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 36.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.925799387979347
+      },
+      {
+        "cpu_percent": 11.1,
+        "name": "Antigravity.exe",
+        "pid": 11188,
+        "memory_percent": 2.5503322003993496
+      },
+      {
+        "cpu_percent": 8.9,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34401546986566267
+      },
+      {
+        "cpu_percent": 8.9,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6269371792700649
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 36.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.925799387979347
+      },
+      {
+        "cpu_percent": 3.2,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4326225912024984
+      },
+      {
+        "cpu_percent": 5.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.202031798293116
+      },
+      {
+        "cpu_percent": 8.5,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.1016036989047433
+      },
+      {
+        "cpu_percent": 3.5,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.0715737280092004
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:14.054791",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399650
+  },
+  "cpu": {
+    "cpu_percent": 33.0,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      33.3,
+      26.9,
+      30.3,
+      19.0,
+      6.3,
+      3.1,
+      7.9,
+      3.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.86,
+    "available_memory_gb": 0.88,
+    "memory_percent": 88.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35208544,
+    "bytes_received": 373449524,
+    "packets_sent": 150526,
+    "packets_received": 302254
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 669.6
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 5.977687239330007,
+        "cpu_percent": 34.9
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6270356381910339,
+        "cpu_percent": 11.1
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34401546986566267,
+        "cpu_percent": 9.0
+      },
+      {
+        "pid": 11188,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.559735027351888,
+        "cpu_percent": 8.2
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 5.977687239330007,
+        "cpu_percent": 34.9
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.4343948517799405,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.346126429131238,
+        "cpu_percent": 6.8
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2047394186197633,
+        "cpu_percent": 1.8
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.086441025075518,
+        "cpu_percent": 1.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:14.890570",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399651
+  },
+  "cpu": {
+    "cpu_percent": 17.8,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      47.7,
+      45.3,
+      53.0,
+      51.5,
+      32.8,
+      30.8,
+      32.8,
+      27.7
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.9,
+    "available_memory_gb": 0.85,
+    "memory_percent": 89.0,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.24
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35211227,
+    "bytes_received": 373458571,
+    "packets_sent": 150535,
+    "packets_received": 302266
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 649.0,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 36.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.98964999822774
+      },
+      {
+        "cpu_percent": 12.4,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34401546986566267
+      },
+      {
+        "cpu_percent": 11.1,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6270356381910339
+      },
+      {
+        "cpu_percent": 8.5,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 36.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 5.98964999822774
+      },
+      {
+        "cpu_percent": 2.1,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4347886874638163
+      },
+      {
+        "cpu_percent": 7.1,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.3460771996707535
+      },
+      {
+        "cpu_percent": 1.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.202967158042322
+      },
+      {
+        "cpu_percent": 3.3,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1307967689720497
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:22.080983",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399658
+  },
+  "cpu": {
+    "cpu_percent": 14.0,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      33.3,
+      19.4,
+      15.6,
+      7.7,
+      9.2,
+      1.6,
+      10.9,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.87,
+    "available_memory_gb": 0.88,
+    "memory_percent": 88.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35247994,
+    "bytes_received": 373477918,
+    "packets_sent": 150552,
+    "packets_received": 302311
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 608.3
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.085401298870085,
+        "cpu_percent": 32.4
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.8266118709951834,
+        "cpu_percent": 19.5
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34401546986566267,
+        "cpu_percent": 13.9
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.3913230122128444,
+        "cpu_percent": 11.2
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.085401298870085,
+        "cpu_percent": 32.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.435231752608177,
+        "cpu_percent": 1.8
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.205084024843155,
+        "cpu_percent": 1.6
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.178844722404918,
+        "cpu_percent": 3.5
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1095788715032313,
+        "cpu_percent": 3.3
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:23.048207",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399659
+  },
+  "cpu": {
+    "cpu_percent": 12.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      31.8,
+      13.8,
+      29.7,
+      26.6,
+      9.7,
+      1.6,
+      4.8,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.86,
+    "available_memory_gb": 0.89,
+    "memory_percent": 88.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35247994,
+    "bytes_received": 373477918,
+    "packets_sent": 150552,
+    "packets_received": 302311
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 635.1,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 28.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.08151217149181
+      },
+      {
+        "cpu_percent": 22.0,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8308948340573346
+      },
+      {
+        "cpu_percent": 11.3,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.3913230122128444
+      },
+      {
+        "cpu_percent": 9.4,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3372218043188021
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 28.8,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.08151217149181
+      },
+      {
+        "cpu_percent": 1.8,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.435231752608177
+      },
+      {
+        "cpu_percent": 1.2,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2023764045165075
+      },
+      {
+        "cpu_percent": 3.3,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.178844722404918
+      },
+      {
+        "cpu_percent": 0.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.110415772331468
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:29.723444",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399666
+  },
+  "cpu": {
+    "cpu_percent": 14.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      39.1,
+      23.4,
+      7.8,
+      3.1,
+      3.2,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.87,
+    "available_memory_gb": 0.88,
+    "memory_percent": 88.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35261410,
+    "bytes_received": 373480715,
+    "packets_sent": 150574,
+    "packets_received": 302328
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 679.8
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.7761516739985743,
+        "cpu_percent": 16.4
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.309838409218906,
+        "cpu_percent": 16.4
+      },
+      {
+        "pid": 13944,
+        "name": "audiodg.exe",
+        "memory_percent": 0.2222710140875024,
+        "cpu_percent": 9.4
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.363114531355228,
+        "cpu_percent": 9.2
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.309838409218906,
+        "cpu_percent": 16.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.435231752608177,
+        "cpu_percent": 1.2
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2043948123963717,
+        "cpu_percent": 0.6
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.045974408557262,
+        "cpu_percent": 2.7
+      },
+      {
+        "pid": 16048,
+        "name": "Code.exe",
+        "memory_percent": 3.0239688397206916,
+        "cpu_percent": 0.2
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:30.697665",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399667
+  },
+  "cpu": {
+    "cpu_percent": 9.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      44.8,
+      36.4,
+      53.1,
+      42.2,
+      24.6,
+      22.7,
+      10.8,
+      7.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.81,
+    "available_memory_gb": 0.93,
+    "memory_percent": 87.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.94,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35261548,
+    "bytes_received": 373480974,
+    "packets_sent": 150576,
+    "packets_received": 302331
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 662.9,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 17.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.084219791818458
+      },
+      {
+        "cpu_percent": 13.4,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.7762009034590589
+      },
+      {
+        "cpu_percent": 9.3,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.363114531355228
+      },
+      {
+        "cpu_percent": 9.3,
+        "name": "audiodg.exe",
+        "pid": 13944,
+        "memory_percent": 0.21916955807697913
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 17.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.084219791818458
+      },
+      {
+        "cpu_percent": 1.0,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4346409990823625
+      },
+      {
+        "cpu_percent": 4.5,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.20360714102862
+      },
+      {
+        "cpu_percent": 1.2,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.0144183243866993
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "Code.exe",
+        "pid": 16048,
+        "memory_percent": 2.8493027139216975
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:37.347969",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399673
+  },
+  "cpu": {
+    "cpu_percent": 10.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      26.5,
+      24.6,
+      16.9,
+      10.6,
+      3.0,
+      7.6,
+      1.5,
+      9.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.58,
+    "available_memory_gb": 1.17,
+    "memory_percent": 84.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35265602,
+    "bytes_received": 373482903,
+    "packets_sent": 150595,
+    "packets_received": 302349
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 642.1
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 2.937866513333307,
+        "cpu_percent": 45.6
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.354391070957376,
+        "cpu_percent": 20.5
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 9.4
+      },
+      {
+        "pid": 3192,
+        "name": "svchost.exe",
+        "memory_percent": 0.07822561270986518,
+        "cpu_percent": 8.8
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.354391070957376,
+        "cpu_percent": 20.5
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.4346409990823625,
+        "cpu_percent": 1.4
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.206265531894783,
+        "cpu_percent": 4.9
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.013433735177009,
+        "cpu_percent": 0.2
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 2.937866513333307,
+        "cpu_percent": 45.6
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:38.384726",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399674
+  },
+  "cpu": {
+    "cpu_percent": 13.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      23.1,
+      15.9,
+      29.7,
+      28.1,
+      1.6,
+      1.6,
+      1.6,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.58,
+    "available_memory_gb": 1.17,
+    "memory_percent": 84.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35267311,
+    "bytes_received": 373483167,
+    "packets_sent": 150598,
+    "packets_received": 302353
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 660.6,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 37.8,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 2.938457266859121
+      },
+      {
+        "cpu_percent": 37.3,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.436407352124547
+      },
+      {
+        "cpu_percent": 10.2,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3424893565906432
+      },
+      {
+        "cpu_percent": 8.3,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 37.3,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.436407352124547
+      },
+      {
+        "cpu_percent": 2.6,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.436511718580774
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2068070559601125
+      },
+      {
+        "cpu_percent": 2.6,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1555591875957516
+      },
+      {
+        "cpu_percent": 4.2,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9612012776029584
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:44.958625",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399681
+  },
+  "cpu": {
+    "cpu_percent": 22.0,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      28.4,
+      15.4,
+      18.8,
+      20.3,
+      12.9,
+      9.5,
+      3.2,
+      3.2
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.63,
+    "available_memory_gb": 1.12,
+    "memory_percent": 85.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35395966,
+    "bytes_received": 373548119,
+    "packets_sent": 150644,
+    "packets_received": 302527
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 647.0
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.670690354570266,
+        "cpu_percent": 54.2
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3424893565906432,
+        "cpu_percent": 10.0
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9627766203384627,
+        "cpu_percent": 8.6
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6270356381910339,
+        "cpu_percent": 8.1
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.670690354570266,
+        "cpu_percent": 54.2
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.437004013185619,
+        "cpu_percent": 4.3
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2071516621835037,
+        "cpu_percent": 2.4
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1369504515326114,
+        "cpu_percent": 6.5
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.04858356996294,
+        "cpu_percent": 0.4
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:46.228063",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399682
+  },
+  "cpu": {
+    "cpu_percent": 16.6,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      33.8,
+      20.0,
+      37.9,
+      40.6,
+      10.8,
+      12.5,
+      9.4,
+      3.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.67,
+    "available_memory_gb": 1.08,
+    "memory_percent": 86.0,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 35584508,
+    "bytes_received": 373554941,
+    "packets_sent": 150668,
+    "packets_received": 302624
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 634.7,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 45.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.788102617825791
+      },
+      {
+        "cpu_percent": 10.7,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3367787391744417
+      },
+      {
+        "cpu_percent": 9.5,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9661734531118924
+      },
+      {
+        "cpu_percent": 8.7,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.2085300870770697
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 45.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.788102617825791
+      },
+      {
+        "cpu_percent": 4.9,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.466049394871472
+      },
+      {
+        "cpu_percent": 3.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2296987550854035
+      },
+      {
+        "cpu_percent": 8.7,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.2085300870770697
+      },
+      {
+        "cpu_percent": 0.4,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.059364821809045
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:52.630394",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399689
+  },
+  "cpu": {
+    "cpu_percent": 18.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      52.1,
+      27.3,
+      43.9,
+      23.1,
+      26.6,
+      4.7,
+      7.9,
+      3.2
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.68,
+    "available_memory_gb": 1.07,
+    "memory_percent": 86.2,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36037189,
+    "bytes_received": 373617680,
+    "packets_sent": 150806,
+    "packets_received": 302894
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 575.4
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.96710093614742,
+        "cpu_percent": 60.6
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.0200797123424166,
+        "cpu_percent": 21.1
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3424893565906432,
+        "cpu_percent": 11.6
+      },
+      {
+        "pid": 14360,
+        "name": "dwm.exe",
+        "memory_percent": 0.5656465009668666,
+        "cpu_percent": 11.6
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.96710093614742,
+        "cpu_percent": 60.6
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.3176225715107144,
+        "cpu_percent": 6.2
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.21443762233521,
+        "cpu_percent": 8.0
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.130747539511565,
+        "cpu_percent": 8.1
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.122427760689685,
+        "cpu_percent": 0.4
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:13:54.150824",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399690
+  },
+  "cpu": {
+    "cpu_percent": 28.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      39.1,
+      31.8,
+      29.7,
+      17.2,
+      22.2,
+      14.5,
+      4.8,
+      3.2
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.67,
+    "available_memory_gb": 1.08,
+    "memory_percent": 86.1,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36038473,
+    "bytes_received": 373625596,
+    "packets_sent": 150814,
+    "packets_received": 302909
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 576.8,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 52.2,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.975026879285425
+      },
+      {
+        "cpu_percent": 19.0,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.0191935820536955
+      },
+      {
+        "cpu_percent": 11.0,
+        "name": "dwm.exe",
+        "pid": 14360,
+        "memory_percent": 0.5656465009668666
+      },
+      {
+        "cpu_percent": 10.6,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 52.2,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.975026879285425
+      },
+      {
+        "cpu_percent": 4.7,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.317770259892168
+      },
+      {
+        "cpu_percent": 7.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.223545072524841
+      },
+      {
+        "cpu_percent": 0.4,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.123018514215499
+      },
+      {
+        "cpu_percent": 3.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1035236478636383
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:00.461715",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399696
+  },
+  "cpu": {
+    "cpu_percent": 30.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      34.4,
+      33.3,
+      39.7,
+      41.9,
+      14.3,
+      12.5,
+      11.1,
+      9.5
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.7,
+    "available_memory_gb": 1.05,
+    "memory_percent": 86.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36182379,
+    "bytes_received": 373630711,
+    "packets_sent": 150847,
+    "packets_received": 302979
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 648.3
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.043701976661297,
+        "cpu_percent": 38.2
+      },
+      {
+        "pid": 3692,
+        "name": "svchost.exe",
+        "memory_percent": 0.38807583699928716,
+        "cpu_percent": 15.9
+      },
+      {
+        "pid": 9348,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.5880459054873126,
+        "cpu_percent": 13.1
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3424893565906432,
+        "cpu_percent": 8.0
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.043701976661297,
+        "cpu_percent": 38.2
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.3178194893526527,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2127638206787363,
+        "cpu_percent": 0.2
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.1595467738949954,
+        "cpu_percent": 0.8
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.105788203045925,
+        "cpu_percent": 2.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:01.780381",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399698
+  },
+  "cpu": {
+    "cpu_percent": 23.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      27.3,
+      21.9,
+      30.6,
+      14.5,
+      4.8,
+      0.0,
+      1.6,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.7,
+    "available_memory_gb": 1.05,
+    "memory_percent": 86.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36182379,
+    "bytes_received": 373630711,
+    "packets_sent": 150847,
+    "packets_received": 302979
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 664.1,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 37.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.061867647580076
+      },
+      {
+        "cpu_percent": 16.2,
+        "name": "svchost.exe",
+        "pid": 3692,
+        "memory_percent": 0.38807583699928716
+      },
+      {
+        "cpu_percent": 12.9,
+        "name": "msedgewebview2.exe",
+        "pid": 9348,
+        "memory_percent": 0.5643665349942697
+      },
+      {
+        "cpu_percent": 8.2,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3424893565906432
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 37.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.061867647580076
+      },
+      {
+        "cpu_percent": 2.3,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.317868718813137
+      },
+      {
+        "cpu_percent": 0.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2159637356102286
+      },
+      {
+        "cpu_percent": 0.8,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.159645232815964
+      },
+      {
+        "cpu_percent": 2.5,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1159294719057313
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:08.076410",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399704
+  },
+  "cpu": {
+    "cpu_percent": 8.0,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      16.9,
+      27.7,
+      6.2,
+      12.1,
+      1.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.63,
+    "available_memory_gb": 1.12,
+    "memory_percent": 85.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36264321,
+    "bytes_received": 373665295,
+    "packets_sent": 150880,
+    "packets_received": 303056
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 688.2
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.937809407159145,
+        "cpu_percent": 18.6
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.779794654074427,
+        "cpu_percent": 17.6
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.3816700996010445,
+        "cpu_percent": 10.7
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.3768987802908872,
+        "cpu_percent": 8.8
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.937809407159145,
+        "cpu_percent": 18.6
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.3816700996010445,
+        "cpu_percent": 10.7
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.3179179482736214,
+        "cpu_percent": 2.7
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2147822285586005,
+        "cpu_percent": 1.0
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9139902249983263,
+        "cpu_percent": 3.1
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:09.415164",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399705
+  },
+  "cpu": {
+    "cpu_percent": 11.8,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      19.7,
+      23.4,
+      14.1,
+      16.1,
+      1.6,
+      0.0,
+      6.3,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.63,
+    "available_memory_gb": 1.12,
+    "memory_percent": 85.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36333366,
+    "bytes_received": 373677522,
+    "packets_sent": 150889,
+    "packets_received": 303073
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 688.7,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 17.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.944553843245521
+      },
+      {
+        "cpu_percent": 13.4,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.7812715378889619
+      },
+      {
+        "cpu_percent": 10.7,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.3826054593502497
+      },
+      {
+        "cpu_percent": 8.8,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.3768987802908872
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 17.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.944553843245521
+      },
+      {
+        "cpu_percent": 10.7,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.3826054593502497
+      },
+      {
+        "cpu_percent": 2.7,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.3179179482736214
+      },
+      {
+        "cpu_percent": 0.8,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2145853107166626
+      },
+      {
+        "cpu_percent": 2.7,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9007475001279968
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:15.708933",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399712
+  },
+  "cpu": {
+    "cpu_percent": 16.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      33.8,
+      21.9,
+      12.7,
+      14.3,
+      3.2,
+      0.0,
+      3.1,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.65,
+    "available_memory_gb": 1.1,
+    "memory_percent": 85.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36392425,
+    "bytes_received": 373791920,
+    "packets_sent": 150977,
+    "packets_received": 303262
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 624.1
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.948836806307672,
+        "cpu_percent": 36.0
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.8034247951069854,
+        "cpu_percent": 22.0
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.378769499789298,
+        "cpu_percent": 15.6
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9272821793291404,
+        "cpu_percent": 11.9
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.948836806307672,
+        "cpu_percent": 36.0
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.3729564850952887,
+        "cpu_percent": 0.0
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.319050225864765,
+        "cpu_percent": 4.5
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2108931011803254,
+        "cpu_percent": 5.9
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 2.984929877556486,
+        "cpu_percent": 4.7
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:17.011605",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399713
+  },
+  "cpu": {
+    "cpu_percent": 16.6,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      16.7,
+      21.9,
+      29.7,
+      15.6,
+      14.1,
+      4.8,
+      6.3,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.66,
+    "available_memory_gb": 1.09,
+    "memory_percent": 86.0,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36574257,
+    "bytes_received": 373797082,
+    "packets_sent": 151009,
+    "packets_received": 303336
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 617.4,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 37.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.972959241945076
+      },
+      {
+        "cpu_percent": 23.0,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8037201718698924
+      },
+      {
+        "cpu_percent": 15.8,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.378769499789298
+      },
+      {
+        "cpu_percent": 11.5,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.926592966882357
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 37.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 6.972959241945076
+      },
+      {
+        "cpu_percent": 0.0,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.3748764340541837
+      },
+      {
+        "cpu_percent": 4.7,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.319050225864765
+      },
+      {
+        "cpu_percent": 5.8,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.211434625245655
+      },
+      {
+        "cpu_percent": 4.7,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 2.984929877556486
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:23.432896",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399719
+  },
+  "cpu": {
+    "cpu_percent": 7.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      27.3,
+      15.6,
+      17.9,
+      20.9,
+      9.0,
+      7.6,
+      6.2,
+      4.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.66,
+    "available_memory_gb": 1.09,
+    "memory_percent": 85.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36698042,
+    "bytes_received": 373804725,
+    "packets_sent": 151044,
+    "packets_received": 303369
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 717.2
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.999986215751064,
+        "cpu_percent": 20.2
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 8.2
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34244012713015876,
+        "cpu_percent": 7.5
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9043904802038494,
+        "cpu_percent": 5.3
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 6.999986215751064,
+        "cpu_percent": 20.2
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.3860515215841644,
+        "cpu_percent": 0.2
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.3192963731671874,
+        "cpu_percent": 4.1
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2103515771149964,
+        "cpu_percent": 0.8
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.129566032459937,
+        "cpu_percent": 3.8
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:24.608384",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399721
+  },
+  "cpu": {
+    "cpu_percent": 15.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      37.7,
+      18.8,
+      36.9,
+      32.3,
+      12.9,
+      9.4,
+      3.1,
+      1.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.66,
+    "available_memory_gb": 1.09,
+    "memory_percent": 85.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.22
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36698042,
+    "bytes_received": 373807587,
+    "packets_sent": 151044,
+    "packets_received": 303422
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 716.2,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 21.5,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.009782878387479
+      },
+      {
+        "cpu_percent": 8.6,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34244012713015876
+      },
+      {
+        "cpu_percent": 8.4,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      },
+      {
+        "cpu_percent": 5.9,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.89749835573602
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 21.5,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.009782878387479
+      },
+      {
+        "cpu_percent": 0.2,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.3862484394261023
+      },
+      {
+        "cpu_percent": 3.7,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.3192963731671874
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2105484949569343
+      },
+      {
+        "cpu_percent": 3.9,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 2.9924127555501294
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:31.092890",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399727
+  },
+  "cpu": {
+    "cpu_percent": 4.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      14.1,
+      12.5,
+      7.8,
+      6.2,
+      3.1,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.65,
+    "available_memory_gb": 1.1,
+    "memory_percent": 85.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.21
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36708525,
+    "bytes_received": 373832609,
+    "packets_sent": 151065,
+    "packets_received": 303492
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 702.2
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.13000122089062,
+        "cpu_percent": 22.4
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34234166820918976,
+        "cpu_percent": 8.2
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 8.2
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 4.5
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.13000122089062,
+        "cpu_percent": 22.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.319148684785734,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.2993092122104812,
+        "cpu_percent": 0.8
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2097115941286973,
+        "cpu_percent": 2.7
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 2.997827996203424,
+        "cpu_percent": 1.2
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:32.255063",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399728
+  },
+  "cpu": {
+    "cpu_percent": 7.6,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      35.8,
+      34.4,
+      26.6,
+      40.6,
+      9.5,
+      12.7,
+      4.8,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.65,
+    "available_memory_gb": 1.1,
+    "memory_percent": 85.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.21
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 36711382,
+    "bytes_received": 373833321,
+    "packets_sent": 151068,
+    "packets_received": 303496
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 700.2,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 21.9,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.185236675554226
+      },
+      {
+        "cpu_percent": 8.0,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      },
+      {
+        "cpu_percent": 7.4,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3422924387487053
+      },
+      {
+        "cpu_percent": 6.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2227574011570894
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 21.9,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.185236675554226
+      },
+      {
+        "cpu_percent": 2.5,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.319148684785734
+      },
+      {
+        "cpu_percent": 1.0,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.2997030478943574
+      },
+      {
+        "cpu_percent": 6.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2227574011570894
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 2.9976803078219705
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:38.698904",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399735
+  },
+  "cpu": {
+    "cpu_percent": 15.1,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      29.2,
+      29.7,
+      31.8,
+      23.4,
+      31.2,
+      20.3,
+      21.5,
+      12.5
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.76,
+    "available_memory_gb": 0.99,
+    "memory_percent": 87.2,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.21
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 37287752,
+    "bytes_received": 373859224,
+    "packets_sent": 151188,
+    "packets_received": 303663
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 646.5
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.852837389184485,
+        "cpu_percent": 36.9
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9121687349604,
+        "cpu_percent": 13.4
+      },
+      {
+        "pid": 22172,
+        "name": "Code.exe",
+        "memory_percent": 2.3440115315088237,
+        "cpu_percent": 9.7
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 8.9
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 7.852837389184485,
+        "cpu_percent": 36.9
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 3.5422565997014726,
+        "cpu_percent": 1.0
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.332883704260908,
+        "cpu_percent": 4.9
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.211336166324686,
+        "cpu_percent": 7.1
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.0281041144013896,
+        "cpu_percent": 5.5
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:39.838586",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399736
+  },
+  "cpu": {
+    "cpu_percent": 26.1,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      34.8,
+      40.0,
+      36.9,
+      39.1,
+      34.4,
+      19.0,
+      17.5,
+      7.9
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.76,
+    "available_memory_gb": 0.99,
+    "memory_percent": 87.2,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.21
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 37302456,
+    "bytes_received": 373901940,
+    "packets_sent": 151215,
+    "packets_received": 303786
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 638.9,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 39.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.909795874965048
+      },
+      {
+        "cpu_percent": 15.1,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9123164233418533
+      },
+      {
+        "cpu_percent": 9.7,
+        "name": "Code.exe",
+        "pid": 22172,
+        "memory_percent": 2.3460299393886883
+      },
+      {
+        "cpu_percent": 9.3,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.3420462914462828
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 39.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 7.909795874965048
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 3.4900241421274214
+      },
+      {
+        "cpu_percent": 6.2,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.332391409656063
+      },
+      {
+        "cpu_percent": 3.2,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2136499509674574
+      },
+      {
+        "cpu_percent": 8.3,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.032140930161118
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:46.415942",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399742
+  },
+  "cpu": {
+    "cpu_percent": 31.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      43.7,
+      35.4,
+      42.9,
+      25.0,
+      24.6,
+      9.5,
+      1.5,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.65,
+    "available_memory_gb": 1.1,
+    "memory_percent": 85.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 37509167,
+    "bytes_received": 374027817,
+    "packets_sent": 151320,
+    "packets_received": 304027
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 609.4
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.699091814912983,
+        "cpu_percent": 45.4
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9184701059024154,
+        "cpu_percent": 13.1
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 12.4
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 11.3
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.699091814912983,
+        "cpu_percent": 45.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.332391409656063,
+        "cpu_percent": 3.4
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2356555198040273,
+        "cpu_percent": 7.1
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.0681768952357698,
+        "cpu_percent": 8.8
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9184701059024154,
+        "cpu_percent": 13.1
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:47.593673",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399744
+  },
+  "cpu": {
+    "cpu_percent": 22.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      56.7,
+      35.9,
+      60.9,
+      62.5,
+      50.0,
+      32.8,
+      42.2,
+      22.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.72,
+    "available_memory_gb": 1.03,
+    "memory_percent": 86.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 37510124,
+    "bytes_received": 374028093,
+    "packets_sent": 151326,
+    "packets_received": 304031
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 590.8,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 45.5,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.679744636942575
+      },
+      {
+        "cpu_percent": 13.9,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      },
+      {
+        "cpu_percent": 11.5,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      },
+      {
+        "cpu_percent": 10.9,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9185193353629
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 45.5,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.679744636942575
+      },
+      {
+        "cpu_percent": 1.6,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.332391409656063
+      },
+      {
+        "cpu_percent": 7.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2107946422593563
+      },
+      {
+        "cpu_percent": 7.9,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.0720167931535607
+      },
+      {
+        "cpu_percent": 10.9,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.9185193353629
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:54.294735",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399750
+  },
+  "cpu": {
+    "cpu_percent": 19.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      33.8,
+      34.4,
+      35.9,
+      32.3,
+      33.8,
+      28.1,
+      15.4,
+      20.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 38061982,
+    "bytes_received": 374086238,
+    "packets_sent": 151439,
+    "packets_received": 304304
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 598.8
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.864026260963401,
+        "cpu_percent": 32.7
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.151855162988898,
+        "cpu_percent": 28.5
+      },
+      {
+        "pid": 16048,
+        "name": "Code.exe",
+        "memory_percent": 2.520499147345744,
+        "cpu_percent": 13.4
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.3798525479199568,
+        "cpu_percent": 13.0
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.151855162988898,
+        "cpu_percent": 28.5
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.332588327498001,
+        "cpu_percent": 3.6
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.213748409888426,
+        "cpu_percent": 1.2
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.0833395690649947,
+        "cpu_percent": 7.0
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.8366999720376667,
+        "cpu_percent": 8.2
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:14:55.223811",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399751
+  },
+  "cpu": {
+    "cpu_percent": 30.1,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      63.4,
+      32.3,
+      29.7,
+      41.5,
+      38.5,
+      33.3,
+      26.6,
+      14.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.78,
+    "available_memory_gb": 0.97,
+    "memory_percent": 87.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 38062296,
+    "bytes_received": 374092701,
+    "packets_sent": 151444,
+    "packets_received": 304315
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 609.0,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 43.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.98161968863351
+      },
+      {
+        "cpu_percent": 33.7,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8654539153174512
+      },
+      {
+        "cpu_percent": 13.3,
+        "name": "Code.exe",
+        "pid": 16048,
+        "memory_percent": 2.522025260620764
+      },
+      {
+        "cpu_percent": 13.1,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.380049465761895
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 43.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.98161968863351
+      },
+      {
+        "cpu_percent": 4.6,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.3326375569584856
+      },
+      {
+        "cpu_percent": 0.8,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2117792314690465
+      },
+      {
+        "cpu_percent": 4.8,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.083487257446448
+      },
+      {
+        "cpu_percent": 9.1,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.8376845612473565
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:02.082956",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399758
+  },
+  "cpu": {
+    "cpu_percent": 33.8,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      32.8,
+      18.8,
+      30.8,
+      25.0,
+      17.2,
+      7.7,
+      11.3,
+      3.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 38562374,
+    "bytes_received": 374150010,
+    "packets_sent": 151571,
+    "packets_received": 304581
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 573.2
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.11586842737473,
+        "cpu_percent": 60.4
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.8654046858569667,
+        "cpu_percent": 17.6
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.3804433014457707,
+        "cpu_percent": 17.0
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.148470145285984,
+        "cpu_percent": 13.0
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.11586842737473,
+        "cpu_percent": 60.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.371233453978331,
+        "cpu_percent": 5.8
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.243729151323485,
+        "cpu_percent": 7.8
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.148470145285984,
+        "cpu_percent": 13.0
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1095788715032313,
+        "cpu_percent": 7.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:03.106288",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399759
+  },
+  "cpu": {
+    "cpu_percent": 18.1,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      46.5,
+      25.0,
+      58.7,
+      30.2,
+      25.8,
+      11.1,
+      14.5,
+      4.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.78,
+    "available_memory_gb": 0.97,
+    "memory_percent": 87.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 38579200,
+    "bytes_received": 374164171,
+    "packets_sent": 151595,
+    "packets_received": 304634
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 583.6,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 50.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.093272105012346
+      },
+      {
+        "cpu_percent": 16.8,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.3802463836038328
+      },
+      {
+        "cpu_percent": 16.3,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.1677680937959063
+      },
+      {
+        "cpu_percent": 14.7,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8655031447779358
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 50.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.093272105012346
+      },
+      {
+        "cpu_percent": 7.2,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.409730892077208
+      },
+      {
+        "cpu_percent": 7.8,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2193605683836592
+      },
+      {
+        "cpu_percent": 9.0,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.199373407426953
+      },
+      {
+        "cpu_percent": 16.3,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.1677680937959063
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:09.870690",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399766
+  },
+  "cpu": {
+    "cpu_percent": 11.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      26.2,
+      25.0,
+      1.6,
+      1.6,
+      1.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.79,
+    "available_memory_gb": 0.96,
+    "memory_percent": 87.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39208906,
+    "bytes_received": 374244347,
+    "packets_sent": 151742,
+    "packets_received": 304976
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 660.0
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.140483157616979,
+        "cpu_percent": 33.8
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.194401231918019,
+        "cpu_percent": 9.9
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3367787391744417,
+        "cpu_percent": 9.4
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 8.0
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.140483157616979,
+        "cpu_percent": 33.8
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.409878580458661,
+        "cpu_percent": 5.6
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.232110998649144,
+        "cpu_percent": 3.1
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.194401231918019,
+        "cpu_percent": 9.9
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 2.9513553855060595,
+        "cpu_percent": 6.5
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:10.870827",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399767
+  },
+  "cpu": {
+    "cpu_percent": 7.1,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      34.4,
+      30.8,
+      23.1,
+      26.2,
+      1.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.79,
+    "available_memory_gb": 0.96,
+    "memory_percent": 87.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39208960,
+    "bytes_received": 374244509,
+    "packets_sent": 151743,
+    "packets_received": 304979
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 671.1,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 26.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.143732302008956
+      },
+      {
+        "cpu_percent": 7.6,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.33736949270025557
+      },
+      {
+        "cpu_percent": 7.6,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626051048981344
+      },
+      {
+        "cpu_percent": 7.0,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 26.6,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.143732302008956
+      },
+      {
+        "cpu_percent": 3.9,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.409878580458661
+      },
+      {
+        "cpu_percent": 3.1,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2170960132013717
+      },
+      {
+        "cpu_percent": 7.0,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.187804484213096
+      },
+      {
+        "cpu_percent": 4.5,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 2.9513553855060595
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:17.445778",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399773
+  },
+  "cpu": {
+    "cpu_percent": 22.8,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      36.4,
+      29.7,
+      29.2,
+      18.8,
+      12.5,
+      19.0,
+      11.3,
+      8.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.81,
+    "available_memory_gb": 0.94,
+    "memory_percent": 87.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39365670,
+    "bytes_received": 374308633,
+    "packets_sent": 151893,
+    "packets_received": 305198
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 647.3
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.352859050147098,
+        "cpu_percent": 44.8
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.050355830540382,
+        "cpu_percent": 15.1
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1150433416170107,
+        "cpu_percent": 13.9
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.626051048981344,
+        "cpu_percent": 10.6
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.352859050147098,
+        "cpu_percent": 44.8
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.463144856702886,
+        "cpu_percent": 6.8
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2462398538081945,
+        "cpu_percent": 8.0
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1150433416170107,
+        "cpu_percent": 13.9
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.050355830540382,
+        "cpu_percent": 15.1
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:18.444684",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399774
+  },
+  "cpu": {
+    "cpu_percent": 20.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      50.7,
+      35.9,
+      52.3,
+      44.4,
+      42.2,
+      22.7,
+      21.2,
+      16.7
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.81,
+    "available_memory_gb": 0.94,
+    "memory_percent": 87.9,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39383892,
+    "bytes_received": 374343386,
+    "packets_sent": 151938,
+    "packets_received": 305273
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 625.5,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 48.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.359406568391536
+      },
+      {
+        "cpu_percent": 16.2,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1127787864347236
+      },
+      {
+        "cpu_percent": 14.7,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.0632539491873203
+      },
+      {
+        "cpu_percent": 10.8,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626051048981344
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 48.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.359406568391536
+      },
+      {
+        "cpu_percent": 6.1,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.463144856702886
+      },
+      {
+        "cpu_percent": 9.6,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2691315529334855
+      },
+      {
+        "cpu_percent": 16.2,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1127787864347236
+      },
+      {
+        "cpu_percent": 14.7,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.0632539491873203
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:25.296247",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399781
+  },
+  "cpu": {
+    "cpu_percent": 10.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      31.8,
+      21.5,
+      23.4,
+      20.3,
+      16.7,
+      15.2,
+      10.8,
+      10.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.83,
+    "available_memory_gb": 0.92,
+    "memory_percent": 88.2,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39458944,
+    "bytes_received": 374367702,
+    "packets_sent": 151999,
+    "packets_received": 305383
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 635.9
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.300921969335954,
+        "cpu_percent": 17.4
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 13.7
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1348335847317785,
+        "cpu_percent": 12.2
+      },
+      {
+        "pid": 22172,
+        "name": "Code.exe",
+        "memory_percent": 2.4678728540878176,
+        "cpu_percent": 11.8
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 9.300921969335954,
+        "cpu_percent": 17.4
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464129445912576,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.246830607334008,
+        "cpu_percent": 2.8
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1348335847317785,
+        "cpu_percent": 12.2
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.0289410152296257,
+        "cpu_percent": 2.3
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:26.107367",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399782
+  },
+  "cpu": {
+    "cpu_percent": 13.2,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      36.9,
+      29.7,
+      50.0,
+      42.2,
+      34.4,
+      34.4,
+      28.1,
+      20.3
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.86,
+    "available_memory_gb": 0.89,
+    "memory_percent": 88.5,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39458944,
+    "bytes_received": 374367756,
+    "packets_sent": 151999,
+    "packets_received": 305384
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 639.1,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 16.3,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.311161697116729
+      },
+      {
+        "cpu_percent": 13.8,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      },
+      {
+        "cpu_percent": 13.8,
+        "name": "Code.exe",
+        "pid": 22172,
+        "memory_percent": 2.4721065876894843
+      },
+      {
+        "cpu_percent": 12.6,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34298165119548824
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 16.3,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 9.311161697116729
+      },
+      {
+        "cpu_percent": 2.3,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.4641786753730606
+      },
+      {
+        "cpu_percent": 1.5,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2469782957154614
+      },
+      {
+        "cpu_percent": 10.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1348335847317785
+      },
+      {
+        "cpu_percent": 2.1,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 3.0296794571368935
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:33.552547",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399790
+  },
+  "cpu": {
+    "cpu_percent": 12.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      23.9,
+      20.3,
+      14.1,
+      16.9,
+      12.5,
+      3.1,
+      4.8,
+      6.3
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.77,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39468207,
+    "bytes_received": 374375372,
+    "packets_sent": 152027,
+    "packets_received": 305412
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 624.5
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.152792491916523,
+        "cpu_percent": 34.8
+      },
+      {
+        "pid": 22172,
+        "name": "Code.exe",
+        "memory_percent": 2.399936198619212,
+        "cpu_percent": 19.0
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3430308806559727,
+        "cpu_percent": 14.8
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.6262971962837665,
+        "cpu_percent": 14.8
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.152792491916523,
+        "cpu_percent": 34.8
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464227904833545,
+        "cpu_percent": 2.9
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.247421360859822,
+        "cpu_percent": 1.5
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.170771090885461,
+        "cpu_percent": 5.5
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.733958088006522,
+        "cpu_percent": 2.1
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:34.273243",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399790
+  },
+  "cpu": {
+    "cpu_percent": 10.4,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      40.3,
+      41.5,
+      43.1,
+      44.6,
+      33.8,
+      16.9,
+      16.7,
+      10.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.76,
+    "available_memory_gb": 0.98,
+    "memory_percent": 87.3,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.32
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39468316,
+    "bytes_received": 374375480,
+    "packets_sent": 152029,
+    "packets_received": 305414
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 624.7,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 34.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.159536928002899
+      },
+      {
+        "cpu_percent": 18.0,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8667831107505327
+      },
+      {
+        "cpu_percent": 17.4,
+        "name": "Code.exe",
+        "pid": 22172,
+        "memory_percent": 2.4008715583684173
+      },
+      {
+        "cpu_percent": 14.9,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.6262971962837665
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 34.1,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.159536928002899
+      },
+      {
+        "cpu_percent": 3.3,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464227904833545
+      },
+      {
+        "cpu_percent": 1.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.247421360859822
+      },
+      {
+        "cpu_percent": 5.8,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1734787112121086
+      },
+      {
+        "cpu_percent": 2.5,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.735238053979119
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:41.759792",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399798
+  },
+  "cpu": {
+    "cpu_percent": 65.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      39.1,
+      31.2,
+      40.6,
+      49.2,
+      30.6,
+      16.1,
+      16.1,
+      7.8
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.11,
+    "available_memory_gb": 1.64,
+    "memory_percent": 78.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 1.06
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39744247,
+    "bytes_received": 374417093,
+    "packets_sent": 152065,
+    "packets_received": 305590
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 457.4
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.4254882577890853,
+        "cpu_percent": 44.9
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.28467821655449,
+        "cpu_percent": 44.9
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.8742167592836917,
+        "cpu_percent": 43.4
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 18.3
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.28467821655449,
+        "cpu_percent": 44.9
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464670969977906,
+        "cpu_percent": 2.6
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.267851586960888,
+        "cpu_percent": 12.7
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.258448760008349,
+        "cpu_percent": 11.1
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9432325245261173,
+        "cpu_percent": 10.5
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:42.426019",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399798
+  },
+  "cpu": {
+    "cpu_percent": 47.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      41.5,
+      37.5,
+      51.6,
+      66.2,
+      42.2,
+      23.4,
+      23.1,
+      18.5
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.1,
+    "available_memory_gb": 1.64,
+    "memory_percent": 78.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.97
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39747059,
+    "bytes_received": 374420222,
+    "packets_sent": 152067,
+    "packets_received": 305594
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 449.7,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 51.1,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 1.4283435664971862
+      },
+      {
+        "cpu_percent": 46.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.287041230657746
+      },
+      {
+        "cpu_percent": 39.2,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.8745613655070832
+      },
+      {
+        "cpu_percent": 19.1,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 46.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.287041230657746
+      },
+      {
+        "cpu_percent": 2.2,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464670969977906
+      },
+      {
+        "cpu_percent": 11.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.258448760008349
+      },
+      {
+        "cpu_percent": 14.3,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.23590166710645
+      },
+      {
+        "cpu_percent": 11.2,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.943675589670478
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:49.646776",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399806
+  },
+  "cpu": {
+    "cpu_percent": 34.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      53.6,
+      42.2,
+      51.5,
+      40.6,
+      20.3,
+      25.0,
+      15.6,
+      14.1
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.31,
+    "available_memory_gb": 1.44,
+    "memory_percent": 81.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.94
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39795928,
+    "bytes_received": 374452894,
+    "packets_sent": 152164,
+    "packets_received": 305686
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 586.6
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 29.6
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 1.4314450225077093,
+        "cpu_percent": 19.7
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.199412790995341,
+        "cpu_percent": 19.6
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.8758905609401645,
+        "cpu_percent": 15.4
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.199412790995341,
+        "cpu_percent": 19.6
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464670969977906,
+        "cpu_percent": 1.7
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.244910658375113,
+        "cpu_percent": 1.7
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.228812624796682,
+        "cpu_percent": 3.2
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.9307774710235397,
+        "cpu_percent": 3.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:50.227023",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399806
+  },
+  "cpu": {
+    "cpu_percent": 37.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      47.8,
+      51.5,
+      53.0,
+      40.0,
+      33.3,
+      28.8,
+      4.5,
+      1.5
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.3,
+    "available_memory_gb": 1.44,
+    "memory_percent": 81.4,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.94
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39795983,
+    "bytes_received": 374452960,
+    "packets_sent": 152165,
+    "packets_received": 305687
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 594.2,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 37.4,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      },
+      {
+        "cpu_percent": 16.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.201677346177627
+      },
+      {
+        "cpu_percent": 15.2,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.875939790400649
+      },
+      {
+        "cpu_percent": 15.2,
+        "name": "chrome.exe",
+        "pid": 22156,
+        "memory_percent": 2.3161476568745987
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 16.4,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.201677346177627
+      },
+      {
+        "cpu_percent": 1.9,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464670969977906
+      },
+      {
+        "cpu_percent": 1.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.244910658375113
+      },
+      {
+        "cpu_percent": 1.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.228172641810384
+      },
+      {
+        "cpu_percent": 1.7,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.930432864800148
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:57.888981",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399814
+  },
+  "cpu": {
+    "cpu_percent": 5.8,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      36.4,
+      26.6,
+      28.8,
+      20.0,
+      15.6,
+      11.1,
+      20.3,
+      6.3
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.42,
+    "available_memory_gb": 1.33,
+    "memory_percent": 82.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.93
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39809544,
+    "bytes_received": 374481965,
+    "packets_sent": 152215,
+    "packets_received": 305757
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 566.7
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 3.280602017226373,
+        "cpu_percent": 94.4
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 16.5
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34268627443258126,
+        "cpu_percent": 14.0
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.626346425744251,
+        "cpu_percent": 13.6
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.19109301217346,
+        "cpu_percent": 1.7
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464670969977906,
+        "cpu_percent": 2.5
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 3.280602017226373,
+        "cpu_percent": 94.4
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2455014119009267,
+        "cpu_percent": 1.0
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1133695399605377,
+        "cpu_percent": 11.3
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:15:58.364993",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399814
+  },
+  "cpu": {
+    "cpu_percent": 4.3,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      53.1,
+      54.7,
+      55.2,
+      42.2,
+      30.8,
+      21.5,
+      34.8,
+      19.7
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.42,
+    "available_memory_gb": 1.33,
+    "memory_percent": 82.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.93
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39809544,
+    "bytes_received": 374481965,
+    "packets_sent": 152215,
+    "packets_received": 305757
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 565.6,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 95.2,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 3.280602017226373
+      },
+      {
+        "cpu_percent": 13.7,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626346425744251
+      },
+      {
+        "cpu_percent": 13.5,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34263704497209674
+      },
+      {
+        "cpu_percent": 12.9,
+        "name": "dwm.exe",
+        "pid": 14360,
+        "memory_percent": 0.8337009133049509
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 1.9,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.19862511962759
+      },
+      {
+        "cpu_percent": 2.3,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464670969977906
+      },
+      {
+        "cpu_percent": 95.2,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 3.280602017226373
+      },
+      {
+        "cpu_percent": 1.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.24564910028238
+      },
+      {
+        "cpu_percent": 11.4,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.117160208417844
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:06.063997",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399822
+  },
+  "cpu": {
+    "cpu_percent": 2.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      24.2,
+      12.3,
+      1.6,
+      0.0,
+      1.6,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.36,
+    "available_memory_gb": 1.39,
+    "memory_percent": 82.1,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.93
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39820570,
+    "bytes_received": 374484965,
+    "packets_sent": 152235,
+    "packets_received": 305780
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 687.2
+      },
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.164755250814256,
+        "cpu_percent": 16.5
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.626346425744251,
+        "cpu_percent": 14.0
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.3373202632397711,
+        "cpu_percent": 13.6
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2639132301221285,
+        "cpu_percent": 8.6
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.164755250814256,
+        "cpu_percent": 16.5
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464670969977906,
+        "cpu_percent": 4.2
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2639132301221285,
+        "cpu_percent": 8.6
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 3.1801246883775147,
+        "cpu_percent": 3.1
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 3.027267213573153,
+        "cpu_percent": 7.7
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:06.457308",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399822
+  },
+  "cpu": {
+    "cpu_percent": 3.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      27.3,
+      27.3,
+      23.4,
+      4.5,
+      0.0,
+      0.0,
+      1.5,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.36,
+    "available_memory_gb": 1.39,
+    "memory_percent": 82.1,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.93
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39821494,
+    "bytes_received": 374484965,
+    "packets_sent": 152238,
+    "packets_received": 305780
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 697.2,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 16.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.165050627577163
+      },
+      {
+        "cpu_percent": 14.1,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626346425744251
+      },
+      {
+        "cpu_percent": 12.8,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34263704497209674
+      },
+      {
+        "cpu_percent": 8.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2640116890430977
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 16.7,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.165050627577163
+      },
+      {
+        "cpu_percent": 4.3,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464670969977906
+      },
+      {
+        "cpu_percent": 8.7,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.2640116890430977
+      },
+      {
+        "cpu_percent": 3.1,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 3.1801246883775147
+      },
+      {
+        "cpu_percent": 7.4,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 3.026479542205401
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:14.206165",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399830
+  },
+  "cpu": {
+    "cpu_percent": 15.5,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      23.5,
+      10.9,
+      7.9,
+      4.7,
+      3.1,
+      1.5,
+      0.0,
+      0.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.42,
+    "available_memory_gb": 1.33,
+    "memory_percent": 82.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.83
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39827702,
+    "bytes_received": 374522882,
+    "packets_sent": 152278,
+    "packets_received": 305843
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 715.3
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34263704497209674,
+        "cpu_percent": 13.3
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.626346425744251,
+        "cpu_percent": 13.1
+      },
+      {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.0016738016564728864,
+        "cpu_percent": 4.2
+      },
+      {
+        "pid": 3304,
+        "name": "MemCompression",
+        "memory_percent": 1.688225888394844,
+        "cpu_percent": 3.3
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.187450032097608,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464769428898875,
+        "cpu_percent": 2.5
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.2518520123034267,
+        "cpu_percent": 1.5
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 3.0522757794992774,
+        "cpu_percent": 2.3
+      },
+      {
+        "pid": 4700,
+        "name": "MsMpEng.exe",
+        "memory_percent": 2.81484209158255,
+        "cpu_percent": 1.0
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:14.528367",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399830
+  },
+  "cpu": {
+    "cpu_percent": 13.7,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      25.8,
+      17.2,
+      17.2,
+      12.5,
+      4.5,
+      4.5,
+      3.0,
+      3.0
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.42,
+    "available_memory_gb": 1.33,
+    "memory_percent": 82.8,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.83
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39831011,
+    "bytes_received": 374523242,
+    "packets_sent": 152285,
+    "packets_received": 305847
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 717.1,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 13.2,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626346425744251
+      },
+      {
+        "cpu_percent": 12.8,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34263704497209674
+      },
+      {
+        "cpu_percent": 4.3,
+        "name": "System",
+        "pid": 4,
+        "memory_percent": 0.0016738016564728864
+      },
+      {
+        "cpu_percent": 4.3,
+        "name": "MemCompression",
+        "pid": 3304,
+        "memory_percent": 1.7122006356507937
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 2.3,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.188631539149236
+      },
+      {
+        "cpu_percent": 2.7,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464769428898875
+      },
+      {
+        "cpu_percent": 1.5,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.252098159605849
+      },
+      {
+        "cpu_percent": 2.7,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 3.0522757794992774
+      },
+      {
+        "cpu_percent": 1.0,
+        "name": "MsMpEng.exe",
+        "pid": 4700,
+        "memory_percent": 2.8196665787100303
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:22.319711",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.529009",
+    "uptime_seconds": 399838
+  },
+  "cpu": {
+    "cpu_percent": 6.9,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      32.4,
+      23.8,
+      17.2,
+      12.5,
+      4.6,
+      0.0,
+      7.8,
+      1.6
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.4,
+    "available_memory_gb": 1.35,
+    "memory_percent": 82.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.85
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39834557,
+    "bytes_received": 374532611,
+    "packets_sent": 152307,
+    "packets_received": 305873
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 9.845892096899331e-05,
+        "cpu_percent": 710.2
+      },
+      {
+        "pid": 14360,
+        "name": "dwm.exe",
+        "memory_percent": 0.8073631519457453,
+        "cpu_percent": 11.0
+      },
+      {
+        "pid": 11096,
+        "name": "python.exe",
+        "memory_percent": 0.34268627443258126,
+        "cpu_percent": 10.7
+      },
+      {
+        "pid": 17228,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.9235446786891572,
+        "cpu_percent": 9.1
+      },
+      {
+        "pid": 21120,
+        "name": "python.exe",
+        "memory_percent": 0.626346425744251,
+        "cpu_percent": 9.1
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "pid": 20760,
+        "name": "Antigravity.exe",
+        "memory_percent": 8.118184181195922,
+        "cpu_percent": 4.8
+      },
+      {
+        "pid": 16596,
+        "name": "language_server_windows_x64.exe",
+        "memory_percent": 3.464769428898875,
+        "cpu_percent": 2.6
+      },
+      {
+        "pid": 17064,
+        "name": "Antigravity.exe",
+        "memory_percent": 3.261107150874512,
+        "cpu_percent": 1.0
+      },
+      {
+        "pid": 12304,
+        "name": "explorer.exe",
+        "memory_percent": 3.0422821990209243,
+        "cpu_percent": 6.6
+      },
+      {
+        "pid": 22180,
+        "name": "Antigravity.exe",
+        "memory_percent": 2.8783973250680353,
+        "cpu_percent": 1.2
+      }
+    ]
+  }
+}
+================================================================================
+{
+  "timestamp": "2026-02-22T14:16:22.595176",
+  "system": {
+    "hostname": "SMOOTH",
+    "platform": "Windows",
+    "boot_time": "2026-02-17T23:12:23.530141",
+    "uptime_seconds": 399839
+  },
+  "cpu": {
+    "cpu_percent": 7.0,
+    "cpu_cores": 4,
+    "cpu_threads": 8,
+    "per_core_usage": [
+      34.3,
+      36.4,
+      27.7,
+      18.8,
+      20.3,
+      6.2,
+      17.2,
+      4.7
+    ]
+  },
+  "memory": {
+    "total_memory_gb": 7.75,
+    "used_memory_gb": 6.4,
+    "available_memory_gb": 1.35,
+    "memory_percent": 82.6,
+    "swap_total_gb": 7.75,
+    "swap_used_gb": 0.85
+  },
+  "disk": {
+    "C:\\": {
+      "mountpoint": "C:\\",
+      "total_gb": 197.28,
+      "used_gb": 98.93,
+      "free_gb": 98.35,
+      "percent_used": 50.1
+    },
+    "D:\\": {
+      "mountpoint": "D:\\",
+      "total_gb": 278.7,
+      "used_gb": 105.67,
+      "free_gb": 173.03,
+      "percent_used": 37.9
+    }
+  },
+  "network": {
+    "bytes_sent": 39834557,
+    "bytes_received": 374532677,
+    "packets_sent": 152307,
+    "packets_received": 305874
+  },
+  "processes": {
+    "top_cpu_processes": [
+      {
+        "cpu_percent": 706.3,
+        "name": "System Idle Process",
+        "pid": 0,
+        "memory_percent": 9.845892096899331e-05
+      },
+      {
+        "cpu_percent": 11.6,
+        "name": "dwm.exe",
+        "pid": 14360,
+        "memory_percent": 0.8074616108667143
+      },
+      {
+        "cpu_percent": 11.2,
+        "name": "OneDrive.exe",
+        "pid": 17228,
+        "memory_percent": 0.9235446786891572
+      },
+      {
+        "cpu_percent": 9.5,
+        "name": "python.exe",
+        "pid": 11096,
+        "memory_percent": 0.34268627443258126
+      },
+      {
+        "cpu_percent": 9.0,
+        "name": "python.exe",
+        "pid": 21120,
+        "memory_percent": 0.626346425744251
+      }
+    ],
+    "top_memory_processes": [
+      {
+        "cpu_percent": 4.9,
+        "name": "Antigravity.exe",
+        "pid": 20760,
+        "memory_percent": 8.119956441773363
+      },
+      {
+        "cpu_percent": 2.6,
+        "name": "language_server_windows_x64.exe",
+        "pid": 16596,
+        "memory_percent": 3.464769428898875
+      },
+      {
+        "cpu_percent": 1.0,
+        "name": "Antigravity.exe",
+        "pid": 17064,
+        "memory_percent": 3.261107150874512
+      },
+      {
+        "cpu_percent": 6.3,
+        "name": "explorer.exe",
+        "pid": 12304,
+        "memory_percent": 3.041839133876564
+      },
+      {
+        "cpu_percent": 1.4,
+        "name": "Antigravity.exe",
+        "pid": 22180,
+        "memory_percent": 2.8783973250680353
+      }
+    ]
+  }
+}
+================================================================================
